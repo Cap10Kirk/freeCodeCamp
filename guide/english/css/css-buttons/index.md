@@ -19,7 +19,7 @@ You can change several properties of a button in order to change its appearance.
 
 * To add shadows to the button use `box-shadow` property.
 
-* To add transparency to a button for a disabled effect use the property `opacity`.
+* To add transparency to a button for a disabled effect use the `opacity` property.
 
 * To remove the margins and create a button group add `float:left/right` property.
 
